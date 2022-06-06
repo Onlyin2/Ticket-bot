@@ -1,16 +1,16 @@
 module.exports = {
-    botClientID: "YOUR_BOT_ID",
+    botClientID: "OTA0NDAxMzQxNjcyMjI2ODI3.GAG2UE.8EggqV0awP6Z6MonucBHi5HjABv2URUxRGvR8Q",
     botPrefix: "!",
-    guildID: "YOUR_GUILD_ID",
-    ownerID: "YOUR_ID",
+    guildID: "624678552012324894",
+    ownerID: "483691877862998031",
     embedColor: "#00dbff",
-    embedfooterText: "Ticket Bot by Expectatives#1157",
+    embedfooterText: "Ticket Bot by SNOWMOBILE#7774",
 
     ticketsSupportRoles: [
-        "YOUR_SUPPORT_ROLE_ID_1",
-        "YOUR_SUPPORT_ROLE_ID_2"
+        "624679653398937656",
+        "983026419653312532"
     ],
-    ticketsOpenCategory: "CATEGORY_ID_OPEN",
-    ticketsCloseCategory: "CATEGORY_ID_CLOSE",
-    ticketsTranscripts: "TRANSCRIPT_CHANNEL_ID"
+    ticketsOpenCategory: "983023595561308180",
+    ticketsCloseCategory: "983279071712665631",
+    ticketsTranscripts: "983007660267962468"
 }
